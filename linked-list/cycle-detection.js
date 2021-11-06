@@ -6,7 +6,7 @@ Cycle Detection (https://leetcode.com/problems/linked-list-cycle-ii/)
 
 // ---- Solution ----
 /*
-Using Floyd's Tortoise and Hare Algorith to achieve O(1) space complexity
+Using Floyd's Tortoise and Hare Algorithm to achieve O(1) space complexity
 - Initialize 2 pointers: tortoise and hare, and they both start from the head
 - The tortoise pointer moves 1 step on each iteration
 - The hare pointer moves 2 steps on each iteration
