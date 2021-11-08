@@ -12,6 +12,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Backspace String Compare](./string/backspace-string-compare.js)
 - [Longest Substring Without Repeating Character](./string/longest-substring-without-repeating-character.js)
 - [Valid Palindrome](./string/valid-palindrome.js)
+- [Valid Palindrome II](./string/valid-palindrome-ii.js)
   
 ### Linked List
 - [Reverse A Linked List](./linked-list/reverse-linked-list.js)
@@ -22,3 +23,6 @@ My solutions to data structure and algorithm questions in JavaScript
 ### Stack
 - [Valid Parentheses](./stack/valid-parentheses.js)
 - [Mininum Remove To Make Valid Parentheses](./stack/minimum-remove-valid-parentheses.js)
+
+### Queue
+- [Implement Queue Using Stacks](./queue/implement-queue-using-stacks.js)
