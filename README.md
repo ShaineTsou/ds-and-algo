@@ -3,7 +3,7 @@
 My solutions to data structure and algorithm questions in JavaScript
 
 ## Contents
-### Array:
+### Array
 - [Two Sum](./array/two-sum.js)
 - [Container With Most Water](./array/container-with-most-water.js)
 - [Trapping Rain Water](./array/trapping-rain-water.js)
@@ -26,3 +26,6 @@ My solutions to data structure and algorithm questions in JavaScript
 
 ### Queue
 - [Implement Queue Using Stacks](./queue/implement-queue-using-stacks.js)
+
+### Sorting
+- [Implement Insertion Sort](./sorting/implement-insertion-sort.js)
