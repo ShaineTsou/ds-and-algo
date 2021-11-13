@@ -29,3 +29,4 @@ My solutions to data structure and algorithm questions in JavaScript
 
 ### Sorting
 - [Implement Insertion Sort](./sorting/implement-insertion-sort.js)
+- [Implement Merge Sort](./sorting/implement-merge-sort.js)
