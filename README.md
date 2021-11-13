@@ -30,3 +30,7 @@ My solutions to data structure and algorithm questions in JavaScript
 ### Sorting
 - [Implement Insertion Sort](./sorting/implement-insertion-sort.js)
 - [Implement Merge Sort](./sorting/implement-merge-sort.js)
+  
+### Searching
+- [Binary Search](./searching/binary-search.js)
+- [First Bad Version](./searching/first-bad-version.js)
