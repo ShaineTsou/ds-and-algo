@@ -34,3 +34,4 @@ My solutions to data structure and algorithm questions in JavaScript
 ### Searching
 - [Binary Search](./searching/binary-search.js)
 - [First Bad Version](./searching/first-bad-version.js)
+- [Search Insert Position](./searching/search-insert-position.js)
