@@ -7,6 +7,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Two Sum](./array/two-sum.js)
 - [Container With Most Water](./array/container-with-most-water.js)
 - [Trapping Rain Water](./array/trapping-rain-water.js)
+- [Square of a Sorted Array](./array/squares-of-a-sorted-array.js)
   
 ### String
 - [Backspace String Compare](./string/backspace-string-compare.js)
