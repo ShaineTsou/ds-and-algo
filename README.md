@@ -31,6 +31,8 @@ My solutions to data structure and algorithm questions in JavaScript
 ### Sorting
 - [Implement Insertion Sort](./sorting/implement-insertion-sort.js)
 - [Implement Merge Sort](./sorting/implement-merge-sort.js)
+- [Implement Quick Sort](./sorting/implement-quick-sort.js)
+- [Kth Largest Element](./sorting/kth-larget-element.js)
   
 ### Searching
 - [Binary Search](./searching/binary-search.js)
