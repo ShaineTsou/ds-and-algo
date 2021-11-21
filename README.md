@@ -8,6 +8,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Container With Most Water](./array/container-with-most-water.js)
 - [Trapping Rain Water](./array/trapping-rain-water.js)
 - [Square of a Sorted Array](./array/squares-of-a-sorted-array.js)
+- [Find First and Last Position of Element in Sorted Array](./array/first-and-last-position.js)
   
 ### String
 - [Backspace String Compare](./string/backspace-string-compare.js)
