@@ -22,13 +22,13 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Flatten Multilevel Doubly Linked List ](./linked-list/flatten-multilevel-doubly-linked-list.js)
 - [Cycle Detection](./linked-list/cycle-detection.js)
   
-### Stack
-- [Valid Parentheses](./stack/valid-parentheses.js)
-- [Mininum Remove To Make Valid Parentheses](./stack/minimum-remove-valid-parentheses.js)
+### Stack & Queue
+- [Valid Parentheses](./stack-and-queue/valid-parentheses.js)
+- [Mininum Remove To Make Valid Parentheses](./stack-and-queue/minimum-remove-valid-parentheses.js)
+- [Implement Queue Using Stacks](./stack-and-queue/implement-queue-using-stacks.js)
 
-### Queue
-- [Implement Queue Using Stacks](./queue/implement-queue-using-stacks.js)
-
+### Binary Tree
+- [Maximum Depth of Binary Tree](./binary-tree/max-depth-of-binary-tree.js)
 ### Sorting
 - [Implement Insertion Sort](./sorting/implement-insertion-sort.js)
 - [Implement Merge Sort](./sorting/implement-merge-sort.js)
