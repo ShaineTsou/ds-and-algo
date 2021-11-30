@@ -30,7 +30,7 @@ My solutions to data structure and algorithm questions in JavaScript
 ### Binary Tree
 - [Maximum Depth of Binary Tree](./binary-tree/max-depth-of-binary-tree.js)
 - [Binary Tree Level Order Traversal](./binary-tree/binary-tree-level-order-traversal.js)
-- [Right Side of a Binary Tree](./binary-tree/binary-tree-level-order-traversal.js)
+- [Right Side of a Binary Tree](./binary-tree/right-side-view-of-binary-tree.js)
 ### Sorting
 - [Implement Insertion Sort](./sorting/implement-insertion-sort.js)
 - [Implement Merge Sort](./sorting/implement-merge-sort.js)
