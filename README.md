@@ -28,6 +28,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Implement Queue Using Stacks](./stack-and-queue/implement-queue-using-stacks.js)
 
 ### Binary Tree
+- [Binary Tree Inorder Traversal](./binary-tree/binary-tree-inorder-traversal.js)
 - [Maximum Depth of Binary Tree](./binary-tree/max-depth-of-binary-tree.js)
 - [Binary Tree Level Order Traversal](./binary-tree/binary-tree-level-order-traversal.js)
 - [Right Side of a Binary Tree](./binary-tree/right-side-view-of-binary-tree.js)
