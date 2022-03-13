@@ -49,3 +49,4 @@ My solutions to data structure and algorithm questions in JavaScript
 
 ### Other
 - [Count Odd Numbers in an Interval Range](./other/odd-nums-in-interval.js)
+- [Average Salary Excluding the Minimum and Maximum Salary](./other/average-salary.js)
