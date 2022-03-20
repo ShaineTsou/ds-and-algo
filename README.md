@@ -50,3 +50,4 @@ My solutions to data structure and algorithm questions in JavaScript
 ### Other
 - [Count Odd Numbers in an Interval Range](./other/odd-nums-in-interval.js)
 - [Average Salary Excluding the Minimum and Maximum Salary](./other/average-salary.js)
+- [Subtract the Product and Sum of Digits of an Integer](./other/difference-between-product-and-sum.js)
