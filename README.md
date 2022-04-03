@@ -12,6 +12,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Maximum Subarray](./array/maximum-subarray.js)
 - [Move Zeroes](./array/move-zeroes.js)
 - [Largest Perimeter Triangle](./array/largest-perimeter-triangle.js)
+- [Find Nearest Point That Has the Same X or Y Coordinate](./array/first-and-last-position.js)
   
 ### String
 - [Backspace String Compare](./string/backspace-string-compare.js)
