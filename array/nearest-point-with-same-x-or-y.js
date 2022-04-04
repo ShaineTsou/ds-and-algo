@@ -14,7 +14,7 @@ Constraints:
 
 Side note:
 - Manhattan distance, also known as city block distance or taxicab geometry
-- is |x1 - x2| + |y1 - y2|, which is used to 
+- is |x1 - x2| + |y1 - y2|
 */
 
 // ---- Test Cases ----
