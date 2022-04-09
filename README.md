@@ -20,6 +20,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Longest Substring Without Repeating Character](./string/longest-substring-without-repeating-character.js)
 - [Valid Palindrome](./string/valid-palindrome.js)
 - [Valid Palindrome II](./string/valid-palindrome-ii.js)
+- [Check if One String Swap Can Make Strings Equal](./string/one-string-swap-equal.js)
   
 ### Linked List
 - [Reverse A Linked List](./linked-list/reverse-linked-list.js)
