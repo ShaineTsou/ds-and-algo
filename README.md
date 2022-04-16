@@ -56,3 +56,4 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Average Salary Excluding the Minimum and Maximum Salary](./other/average-salary.js)
 - [Subtract the Product and Sum of Digits of an Integer](./other/difference-between-product-and-sum.js)
 - [Happy Number](./other/happy-number.js)
+- [N-ary Tree Preorder Traversal](./other/n-ary_tree_preorder_traversal.js)
