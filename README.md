@@ -32,6 +32,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Valid Parentheses](./stack-and-queue/valid-parentheses.js)
 - [Mininum Remove To Make Valid Parentheses](./stack-and-queue/minimum-remove-valid-parentheses.js)
 - [Implement Queue Using Stacks](./stack-and-queue/implement-queue-using-stacks.js)
+- [Next Greater Element I (Solution1)](./stack-and-queue/next-greater-element-i-solution1-brute-force.js)
 
 ### Binary Tree
 - [Binary Tree Inorder Traversal](./binary-tree/binary-tree-inorder-traversal.js)
