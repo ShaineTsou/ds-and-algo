@@ -14,6 +14,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Largest Perimeter Triangle](./array/largest-perimeter-triangle.js)
 - [Find Nearest Point That Has the Same X or Y Coordinate](./array/first-and-last-position.js)
 - [Can Make Arithmetic Progression From Sequence](./array/can-make-arithmetic-progression.js)
+- [Check If It Is a Straight Line](./array/check-if-it-is-a-straight-line.js)
   
 ### String
 - [Backspace String Compare](./string/backspace-string-compare.js)
