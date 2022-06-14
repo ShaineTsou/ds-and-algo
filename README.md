@@ -23,6 +23,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Valid Palindrome](./string/valid-palindrome.js)
 - [Valid Palindrome II](./string/valid-palindrome-ii.js)
 - [Check if One String Swap Can Make Strings Equal](./string/one-string-swap-equal.js)
+- [Merge Strings Alternately](./string/merge-strings-alternately.js)
   
 ### Linked List
 - [Reverse A Linked List](./linked-list/reverse-linked-list.js)
