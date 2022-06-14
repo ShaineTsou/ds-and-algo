@@ -60,3 +60,4 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Subtract the Product and Sum of Digits of an Integer](./other/difference-between-product-and-sum.js)
 - [Happy Number](./other/happy-number.js)
 - [N-ary Tree Preorder Traversal](./other/n-ary_tree_preorder_traversal.js)
+- [Matrix Diagonal Sum](./other/matrix-diagonal-sum.js)
