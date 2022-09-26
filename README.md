@@ -17,6 +17,7 @@ My solutions to data structure and algorithm questions in JavaScript
 - [Check If It Is a Straight Line](./array/check-if-it-is-a-straight-line.js)
 - [Richest Customer Wealth](./array/richest-customer-wealth.js)
 - [Running Sum of 1d Array](./array/running-sum-1d.js)
+- [Find Pivot Index](./array/find-pivot-index.js)
   
 ### String
 - [Backspace String Compare](./string/backspace-string-compare.js)
