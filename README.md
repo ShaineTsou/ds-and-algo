@@ -28,6 +28,7 @@ My solutions to data structure and algorithm questions
 - [Check if One String Swap Can Make Strings Equal](./js/string/one-string-swap-equal.js)
 - [Merge Strings Alternately](./js/string/merge-strings-alternately.js)
 - [Goal Parser Interpretation](./js/string/goal-parse-interpretation.js)
+- [Find the Difference](./js/string/find-the-difference.js)
   
 ### Linked List
 - [Reverse A Linked List](./js/linked-list/reverse-linked-list.js)
