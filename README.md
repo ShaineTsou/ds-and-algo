@@ -66,3 +66,4 @@ My solutions to data structure and algorithm questions
 - [Happy Number](./js/other/happy-number.js)
 - [N-ary Tree Preorder Traversal](./js/other/n-ary_tree_preorder_traversal.js)
 - [Matrix Diagonal Sum](./js/other/matrix-diagonal-sum.js)
+- [Reshape the Matrix](./js/other/reshape-matrix.js)
