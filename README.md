@@ -30,6 +30,7 @@ My solutions to data structure and algorithm questions
 - [Merge Strings Alternately](./js/string/merge-strings-alternately.js)
 - [Goal Parser Interpretation](./js/string/goal-parse-interpretation.js)
 - [Find the Difference](./js/string/find-the-difference.js)
+- [Isomorphic Strings](./js/string/isomorphic-strings.js)
   
 ### Linked List
 - [Reverse A Linked List](./js/linked-list/reverse-linked-list.js)
