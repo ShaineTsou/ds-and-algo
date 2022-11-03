@@ -30,8 +30,8 @@ const arr5 = [];
 const target5 = 7;
 // -> null
 
-// ---- Solution ----
-const twoSum = function (nums, target) {
+// ---- Solution 1 ----
+const twoSum1 = function (nums, target) {
   if (nums.length <= 1) return null;
 
   const seenNums = {};
@@ -50,13 +50,44 @@ const twoSum = function (nums, target) {
   return null;
 };
 
-console.log(twoSum(arr1, target1)); // [4, 3]
-console.log(twoSum(arr2, target2)); // null
-console.log(twoSum(arr3, target3)); // [1, 0]
-console.log(twoSum(arr4, target4)); // null
-console.log(twoSum(arr5, target5)); // null
+console.log(twoSum1(arr1, target1)); // [4, 3]
+console.log(twoSum1(arr2, target2)); // null
+console.log(twoSum1(arr3, target3)); // [1, 0]
+console.log(twoSum1(arr4, target4)); // null
+console.log(twoSum1(arr5, target5)); // null
 
-// ---- Space and Time Complexity ----
+// ---- Space and Time Complexity 1 ----
+/*
+Time: O(n)
+Space: O(n)
+*/
+
+// ---- Solution 2: Using Map object ----
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum2 = function (nums, target) {
+  const seenMap = new Map()
+
+  for (let i = 0; i < nums.length; i++) {
+    const numToFind = target - nums[i]
+    if (seenMap.has(numToFind)) {
+      return [seenMap.get(numToFind), i]
+    }
+    seenMap.set(nums[i], i)
+  }
+  return null
+};
+
+console.log(twoSum2(arr1, target1)); // [3, 4]
+console.log(twoSum2(arr2, target2)); // null
+console.log(twoSum2(arr3, target3)); // [0, 1]
+console.log(twoSum2(arr4, target4)); // null
+console.log(twoSum2(arr5, target5)); // null
+
+// ---- Space and Time Complexity 2 ----
 /*
 Time: O(n)
 Space: O(n)
