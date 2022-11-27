@@ -20,6 +20,7 @@ My solutions to data structure and algorithm questions
 - [Find Pivot Index](./js/array/find-pivot-index.js)
 - [Contains Duplicates](./js/array/contain-duplicates.js)
 - [Merge Sorted Array](./js/array/merge-sorted-array.js)
+- [Monotonic Array](./js/array/monotonic-array.js)
   
 ### String
 - [Backspace String Compare](./js/string/backspace-string-compare.js)
