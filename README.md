@@ -32,6 +32,7 @@ My solutions to data structure and algorithm questions
 - [Goal Parser Interpretation](./js/string/goal-parse-interpretation.js)
 - [Find the Difference](./js/string/find-the-difference.js)
 - [Isomorphic Strings](./js/string/isomorphic-strings.js)
+- [Find the Index of the First Occurrence in a String](./js/string/find-first-occurrence-index.js)
   
 ### Linked List
 - [Reverse A Linked List](./js/linked-list/reverse-linked-list.js)
